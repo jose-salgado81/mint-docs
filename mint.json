@@ -50,6 +50,10 @@
   ],
   "navigation": [
     {
+      "group": "Ad Networks",
+      "pages": ["facebook-ads", "google-ads", "microsoft-ads"]
+    },
+    {
       "group": "Get Started",
       "pages": ["introduction", "quickstart", "development"]
     },
