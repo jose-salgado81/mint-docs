@@ -55,7 +55,7 @@
     },
     {
       "group": "Get Started",
-      "pages": ["introduction", "quickstart", "development"]
+      "pages": ["introduction", "quickstart", "development", "anytrack-pixel-helper"]
     },
     {
       "group": "Essentials",
